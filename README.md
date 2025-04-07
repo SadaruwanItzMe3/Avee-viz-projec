@@ -1,6 +1,6 @@
 # Avee Player Viz Project
 
-This project contains a custom visualization file for Avee Player with a red and white theme. It's optimized for mobile use and doesn't include song or artist names by default, but you can edit the template to include those.
+This project contains a custom visualization file for Avee Player with a red and white theme. It's optimized for mobile use and doesn't include song or artist names by default, but you can edit the template to include those.so  (This is just the beginning, it's getting better and better)
 
 ## Folder Structure
 
